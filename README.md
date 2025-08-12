@@ -1,9 +1,13 @@
  As sports enthusiasts, we’ve all faced the same frustration. You want to play a game of badminton, but finding a court feels like a sport in itself. The current options are fragmented, inefficient, and frankly, they suck the fun out of it. We are here to change that. We are Quick Court, and our tagline is simple: Play, Connect, Conquer.
 We’ve identified three major problems in the sports booking space. First, the lack of a centralized platform. You have to hunt for venues on different apps and websites. Second, the community is broken. Finding friends or new players to fill a team is a manual, often frustrating process. And finally, the booking experience is incomplete. After you pay, you're left to fend for yourself—organizing payment splits, getting confirmations, and handling logistics.  
+
 That's why we built Quick Court. It's a unified platform that brings together booking, community, and convenience into a single, seamless experience. Our goal is to make planning a game as exciting as playing it.
-Our features are designed to solve these problems directly.
+Our features are designed to solve these problems directly.  
+
 Booking: We offer real-time availability and subscriptions for regular players.
+
 Payments: We've implemented a unique split payment feature where you can divide the cost with your friends using UPI IDs right inside the app. No more external apps or manual calculations.
+
 Post-Booking: We enhance the post-booking experience with instant WhatsApp confirmations, providing all the details and even a Google Maps link. We also have a wallet and rewards system that incentivizes repeat play.
 Looking Ahead: Our future enhancements include team matchmaking to help you find players and nearest venue suggestions to save you time.
 Quick Court is not just for users. We are empowering the entire sports ecosystem.
